@@ -93,11 +93,11 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Kenya Data for Sustainable Development Goals
-  description: frontpage.instructions_shorter
+  title: Indicators of the UN Sustainable Development Goals
+  description: Click on each goal for Kenya's Sustainable Development Goal global indicator data.
 frontpage_introduction_banner:
-  title: frontpage.intro_title
-  description: frontpage.intro_body
+  title: Kenya Data for Sustainable Development Goals
+  description: Welcome to the home of Kenya data for the Sustainable Development Goals (SDGs) – reported by KNBS, Kenya’s National Statistical Office.
 goal_image_base: 'https://open-sdg.org/sdg-translations/assets/img/goals'
 goal_image_extension: ''
 goals_page:
@@ -180,6 +180,12 @@ menu:
     dropdown: []
   - path: /reporting-status
     translation_key: menu.reporting_status
+    dropdown: []
+  - path: /
+    translation_key: general.guidance
+    dropdown: []
+  - path: /guidance
+    translation_key: menu.guidance
     dropdown: []
   - path: /news
     translation_key: menu.updates
