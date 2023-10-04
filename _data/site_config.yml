@@ -93,7 +93,7 @@ frontpage_cards:
     button_link: 'https://example.com'
     rule_color: ''
 frontpage_goals_grid:
-  title: Indicators of the UN Sustainable Development Goals
+  title: Indicators of Kenya Sustainable Development Goals
   description: Click on each goal for Kenya's Sustainable Development Goal global indicator data.
 frontpage_introduction_banner:
   title: Kenya Data for Sustainable Development Goals
@@ -182,7 +182,6 @@ menu:
     translation_key: menu.reporting_status
     dropdown: []
   - path: /
-    translation_key: general.guidance
     dropdown: []
   - path: /guidance
     translation_key: menu.guidance
